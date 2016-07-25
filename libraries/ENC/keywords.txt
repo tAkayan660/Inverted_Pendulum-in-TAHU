@@ -1,0 +1,4 @@
+ENC	KEYWORD1
+enc_count	KEYWORD2
+get_pulses	KEYWORD2
+reset	KEYWORD2
