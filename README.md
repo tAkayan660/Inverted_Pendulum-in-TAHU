@@ -5,6 +5,8 @@
 2. マイコンはArduino Megaを使用
 3. 姿勢制御にIMU（MPU-6050）を使用
 
+![](http://img.youtube.com/vi/QLL-8Sfgxz4/0.jpg)
+
 ## 動画
 
 倒立        https://youtu.be/ehn2ii576s0?t=45s
